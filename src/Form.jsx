@@ -16,7 +16,7 @@ const Form = ({ addItem }) => {
 
   return (
     <form onSubmit={handleSubmit}>
-      <h4>my gorcery checklit</h4>
+      <h4>my grocery checklist</h4>
       <div className='form-control'>
         <input
           type='text '
